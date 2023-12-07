@@ -1,5 +1,4 @@
-# -Ramesh-Kaushika
-New Gen
+
 <h1 align="center">Hi 👋, I'm Ramesh Kaushika De Silva</h1>
 <h3 align="center">A passionate backEnd developer from Sri Lanka</h3>
 
