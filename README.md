@@ -1,5 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Ramesh Kaushika De Silva</h1>
+<![Your paragraph text](https://github.com/Ramesh-Kaushika/-Ramesh-Kaushika/assets/149869212/7d6f0fb1-e593-401e-a47c-9b1525a27735)
+
+h1 align="center">Hi 👋, I'm Ramesh Kaushika De Silva</h1>
 <h3 align="center">A passionate backEnd developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramesh-kaushika&label=Profile%20views&color=0e75b6&style=flat" alt="ramesh-kaushika" /> </p>
